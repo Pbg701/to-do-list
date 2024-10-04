@@ -14,7 +14,7 @@ class _Program1State extends State {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("To-do list"),
+        title: const Text("To-do list app"),
       ),
       body: ListView.builder(
           itemCount: 5,
